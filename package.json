@@ -1,5 +1,5 @@
 {
-  "name": "revenuewire-hello",
+  "name": "@revenuewire/hello",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
